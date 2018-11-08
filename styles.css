@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    
+}
+
+.header {
+    font-family: Abril Fatface;
+    color: blue;
+}
+
+div.bestweb {
+    font-family: Acme;
+    color: #f96b5e;
+    border: 5px solid #f96b5e;
+}
+
+.bestwebimg {
+    width: 500px;
+}
+
+div.bestMV {
+    font-family: Bangers;
+    color: #c130ff;
+    border: 5px solid #c130ff;
+}
+
+div.bestgame {
+    font-family: monoton;
+    color: #6fa3f7;
+    border: 5px solid #6fa3f7;
+}
+
+iframe {
+    width: 560px;
+    height: 315px;
+}
+
+.twitter-tweet {
+    
+}
+
+div.besthuman {
+    font-family: permanent marker;
+    border: 5px solid black;
+}
+
+div {
+    margin: 5px;
+}
